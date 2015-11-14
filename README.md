@@ -2,7 +2,9 @@
 
 ## Synopsis
 
-A plugin for `irc-bot-framework` that makes it easy to schedule messages to be sent via cron scheduling.
+A plugin for [irc-bot-framework](https://github.com/jthomerson/irc-bot-framework) that makes it easy to
+schedule messages to be sent via cron scheduling.
+
 Why would you need this?
 
    1. You want a reminder every day at a certain time to do something ... send yourself a message.
