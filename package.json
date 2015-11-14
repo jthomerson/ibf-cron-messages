@@ -15,7 +15,8 @@
     "bot",
     "framework",
     "plugin",
-    "modular"
+    "cron",
+    "schedule"
   ],
   "author": "Jeremy Thomerson",
   "license": "Apache-2.0",
