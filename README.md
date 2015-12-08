@@ -35,4 +35,4 @@ Describe and show how to run the tests with code examples.
 ## License
 
 This project is licensed with the Apache Software License, 2.0. See
-[LICENSE.txt](https://github.com/jthomerson/irc-bot-framework/blob/master/LICENSE) for more details.
+[LICENSE.txt](https://github.com/jthomerson/irc-cron-messages/blob/master/LICENSE) for more details.
